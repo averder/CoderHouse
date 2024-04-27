@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "Alfajor sabroso",
+    "description": "Sabroso",
+    "price": 100,
+    "thumbnail": "/imagen/13",
+    "code": "abc021",
+    "stock": 40
+  },
+  {
+    "id": 4,
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25
+  }
+]
