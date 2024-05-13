@@ -1,0 +1,17 @@
+<h3>Listado Productos:</h3>
+{{#if products.length}}
+    {{#each products}}
+        <ul>
+            <li>{{title}}</li>
+            <li>{{description}}</li>
+            <li>{{price}}</li>
+            <li>{{thumbnail}}</li>
+            <li>{{code}}</li>
+            <li>{{stock}}</li>
+        </ul>
+    {{/each}}
+{{else}}
+    <p>No existen productos registrados</p>
+{{/if}}
+
+
